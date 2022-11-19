@@ -8,3 +8,4 @@
 
 ## 参考
 [NHK ツクランカー いきもの②](https://www.nhk.or.jp/school/common/barcode/?das_id=D0005180445_00000)
+[NHK ツクランカー セミ型ロボットをバージョンアップさせよう](https://www.nhk.or.jp/school/common/barcode/?das_id=D0005320711_00000)
