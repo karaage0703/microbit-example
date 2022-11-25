@@ -9,5 +9,7 @@ NeopixelでLチカ
 ## 使い方
 rainbow.pyをmicro:bitに書き込みます。
 
+詳細はブログ記事[micro:bitでNeopixelを使って手軽にレインボーLチカ](https://karaage.hatenadiary.jp/entry/2022/11/25/073000)を参照ください。
+
 ## 参考
 - [neopixel（ネオピクセル） Switch Education](https://learn.switch-education.com/microbit-md-tutorial/20-neopixel.html)
