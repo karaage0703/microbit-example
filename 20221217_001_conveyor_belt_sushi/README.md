@@ -5,7 +5,9 @@
 ## 使用部品
 - [micro:bit（マイクロビット） v2.2](https://www.switch-science.com/products/7952?variant=42382193623238)
 - [micro:bit用ワークショップモジュール](https://www.switch-science.com/products/5489?variant=42382068154566)
-- SG-90（サーボモータ）
+- [SG-90（サーボモータ）](https://akizukidenshi.com/catalog/g/gM-08761/)
+- トイレットペーパー
+- 色えんぴつ
 - ダンボール
 
 ## 使い方
