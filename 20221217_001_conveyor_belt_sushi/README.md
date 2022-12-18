@@ -1,4 +1,4 @@
-![microbit_sushi](https://user-images.githubusercontent.com/5562157/208272677-ad47043f-dddf-4ae2-b4b9-4270d55b1598.jpg)
+<img src="https://user-images.githubusercontent.com/5562157/208272677-ad47043f-dddf-4ae2-b4b9-4270d55b1598.jpg" loading="lazy" width="640">
 
 # conveyor_belt_sushi
 回転寿司ゲーム
