@@ -1,6 +1,8 @@
+![microbit_sushi](https://user-images.githubusercontent.com/5562157/208272677-ad47043f-dddf-4ae2-b4b9-4270d55b1598.jpg)
 
 # conveyor_belt_sushi
 回転寿司ゲーム
+
 
 ## 使用部品
 - [micro:bit（マイクロビット） v2.2](https://www.switch-science.com/products/7952?variant=42382193623238)
